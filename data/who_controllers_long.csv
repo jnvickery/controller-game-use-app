@@ -1,0 +1,101 @@
+college_division_name,station_library,year,num_checkouts
+Campus Enterprises,DHHILL,2022,1
+College of Agriculture & Life Sciences (CALS),DHHILL,2019,67
+College of Agriculture & Life Sciences (CALS),DHHILL,2020,25
+College of Agriculture & Life Sciences (CALS),DHHILL,2021,1
+College of Agriculture & Life Sciences (CALS),DHHILL,2022,94
+College of Agriculture & Life Sciences (CALS),DHHILL,2023,25
+College of Agriculture & Life Sciences (CALS),HUNT,2019,16
+College of Agriculture & Life Sciences (CALS),HUNT,2020,22
+College of Agriculture & Life Sciences (CALS),HUNT,2021,2
+College of Agriculture & Life Sciences (CALS),HUNT,2022,16
+College of Agriculture & Life Sciences (CALS),HUNT,2023,2
+College of Design,DHHILL,2019,10
+College of Design,DHHILL,2020,6
+College of Design,DHHILL,2022,14
+College of Design,HUNT,2019,7
+College of Design,HUNT,2020,2
+College of Design,HUNT,2022,3
+College of Education,DHHILL,2019,1
+College of Education,DHHILL,2022,30
+College of Education,DHHILL,2023,2
+College of Education,HUNT,2019,7
+College of Engineering,DHHILL,2019,392
+College of Engineering,DHHILL,2020,156
+College of Engineering,DHHILL,2021,8
+College of Engineering,DHHILL,2022,1165
+College of Engineering,DHHILL,2023,359
+College of Engineering,HUNT,2019,662
+College of Engineering,HUNT,2020,296
+College of Engineering,HUNT,2021,8
+College of Engineering,HUNT,2022,527
+College of Engineering,HUNT,2023,79
+College of Humanities & Social Sciences,DHHILL,2019,63
+College of Humanities & Social Sciences,DHHILL,2020,21
+College of Humanities & Social Sciences,DHHILL,2021,12
+College of Humanities & Social Sciences,DHHILL,2022,118
+College of Humanities & Social Sciences,DHHILL,2023,41
+College of Humanities & Social Sciences,HUNT,2019,35
+College of Humanities & Social Sciences,HUNT,2020,6
+College of Humanities & Social Sciences,HUNT,2021,4
+College of Humanities & Social Sciences,HUNT,2022,10
+College of Humanities & Social Sciences,HUNT,2023,1
+College of Natural Resources,DHHILL,2019,44
+College of Natural Resources,DHHILL,2020,27
+College of Natural Resources,DHHILL,2021,1
+College of Natural Resources,DHHILL,2022,29
+College of Natural Resources,DHHILL,2023,5
+College of Natural Resources,HUNT,2019,23
+College of Natural Resources,HUNT,2020,6
+College of Natural Resources,HUNT,2022,3
+College of Sciences,DHHILL,2019,80
+College of Sciences,DHHILL,2020,54
+College of Sciences,DHHILL,2021,1
+College of Sciences,DHHILL,2022,224
+College of Sciences,DHHILL,2023,63
+College of Sciences,HUNT,2019,37
+College of Sciences,HUNT,2020,11
+College of Sciences,HUNT,2021,4
+College of Sciences,HUNT,2022,36
+College of Sciences,HUNT,2023,1
+Division of Academic and Student Affairs,DHHILL,2019,73
+Division of Academic and Student Affairs,DHHILL,2020,45
+Division of Academic and Student Affairs,DHHILL,2022,116
+Division of Academic and Student Affairs,DHHILL,2023,55
+Division of Academic and Student Affairs,HUNT,2019,7
+Division of Academic and Student Affairs,HUNT,2020,9
+Division of Academic and Student Affairs,HUNT,2022,9
+Division of Academic and Student Affairs,HUNT,2023,2
+Environmental Health & Public Safety,DHHILL,2022,1
+Facilities Division,DHHILL,2019,1
+Finance Division,HUNT,2020,6
+NCSU Libraries,DHHILL,2019,3
+NCSU Libraries,DHHILL,2020,9
+NCSU Libraries,DHHILL,2021,5
+NCSU Libraries,DHHILL,2022,20
+NCSU Libraries,DHHILL,2023,1
+NCSU Libraries,HUNT,2022,39
+Non Degree Studies,DHHILL,2020,7
+Non Degree Studies,DHHILL,2022,2
+Non Degree Studies,HUNT,2019,3
+Non Degree Studies,HUNT,2020,8
+Office of Research and Innovation,HUNT,2019,2
+Office of Research and Innovation,HUNT,2020,4
+Office of Research and Innovation,HUNT,2022,1
+Poole College of Management,DHHILL,2019,81
+Poole College of Management,DHHILL,2020,17
+Poole College of Management,DHHILL,2021,7
+Poole College of Management,DHHILL,2022,228
+Poole College of Management,DHHILL,2023,107
+Poole College of Management,HUNT,2019,27
+Poole College of Management,HUNT,2020,20
+Poole College of Management,HUNT,2022,7
+Poole College of Management,HUNT,2023,5
+University Core Research Facilities,HUNT,2019,2
+Vice Chancellor / Provost's Office,DHHILL,2022,2
+Wilson College of Textiles,DHHILL,2019,36
+Wilson College of Textiles,DHHILL,2020,13
+Wilson College of Textiles,DHHILL,2022,6
+Wilson College of Textiles,HUNT,2019,37
+Wilson College of Textiles,HUNT,2020,6
+Wilson College of Textiles,HUNT,2022,12
