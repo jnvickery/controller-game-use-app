@@ -6,7 +6,7 @@ import streamlit as st
 from pathlib import Path
 from plotly.subplots import make_subplots
 
-data_path = Path("../data/")
+data_path = Path("data/")
 
 st.set_page_config(
     page_title="Controller and Game Usage",
