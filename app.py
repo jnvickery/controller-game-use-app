@@ -105,7 +105,7 @@ except ValueError:
 
 csv = convert_df(all_controller_use)
 st.download_button(
-    "Download CSV",
+    "Download all data as csv",
     csv,
     "average_controller_use_per_hour.csv",
     "text/csv",
@@ -160,7 +160,7 @@ with row1_1:
     who_controllers.reset_index(inplace=True, drop=True)
     csv = convert_df(who_controllers)
     st.download_button(
-        "Download CSV",
+        "Download all data as csv",
         csv,
         "controller_checkout_by_college.csv",
         "text/csv",
@@ -239,7 +239,7 @@ with row1_1:
 
     csv = convert_df(what_games)
     st.download_button(
-        "Download CSV",
+        "Download all data as csv",
         csv,
         "game_checkouts.csv",
         "text/csv",
