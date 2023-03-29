@@ -41,7 +41,8 @@ def convert_df(df):
     return df.to_csv(index=False).encode("utf-8")
 
 
-st.title("CONTROLLER AND GAME USAGE (Aug. 2019 - March 2023)")
+st.title("CONTROLLER AND GAME USAGE")
+st.subheader("August 2019 - March 2023")
 st.markdown("**Jump tp section:**")
 st.markdown(
     """[Average controller use per hour](#average-controller-use-per-hour)
