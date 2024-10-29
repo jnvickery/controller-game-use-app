@@ -15,7 +15,7 @@ st.set_page_config(
 )
 
 
-@st.experimental_singleton
+@st.singleton
 def load_data(csvfile):
     df = pd.read_csv(csvfile)
     if "hour" in df.columns:
@@ -24,7 +24,7 @@ def load_data(csvfile):
 
 
 # function to format integer as 12-hour time
-@st.experimental_memo
+@st.cache_data
 def format_time(hour):
     if hour == 0:
         return "12AM"
@@ -36,7 +36,7 @@ def format_time(hour):
         return f"{hour}AM"
 
 
-@st.experimental_memo
+@st.cache_data
 def convert_df(df):
     return df.to_csv(index=False).encode("utf-8")
 
