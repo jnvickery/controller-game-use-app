@@ -15,7 +15,7 @@ st.set_page_config(
 )
 
 
-@st.singleton
+@st.cache_resource
 def load_data(csvfile):
     df = pd.read_csv(csvfile)
     if "hour" in df.columns:
